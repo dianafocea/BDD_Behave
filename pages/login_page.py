@@ -14,7 +14,7 @@ class LoginPage(HomePage):
     ERROR_MESSAGE_INVALID_USERNAME = (By.ID, "flash")
 
     def navigate_to_login_page(self):
-        self.click_to_form_auth()
+        self.click_form_auth()
 
 
     def set_username(self, email):
