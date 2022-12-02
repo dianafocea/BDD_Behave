@@ -1,5 +1,5 @@
 from imports import *
-from pages.login_page import LoginPage
+
 
 '''
 c. Secure page https://the-internet.herokuapp.com/secure

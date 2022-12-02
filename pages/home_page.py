@@ -1,4 +1,3 @@
-from browser import Browser
 from imports import *
 
 '''

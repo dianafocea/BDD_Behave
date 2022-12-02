@@ -1,5 +1,5 @@
 from imports import *
-from pages.home_page import HomePage
+
 
 '''
 b. Login page https://the-internet.herokuapp.com/login
